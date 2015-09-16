@@ -1,0 +1,26 @@
+{
+	"name": "highcharts-ng-config",
+	"version": "0.0.1",
+	"description": "GUI in Angular.js to config highcharts charts",
+	"keywords": [
+		"angular",
+		"angularjs",
+		"angular.js",
+		"highcharts"
+	],
+	"homepage": "https://github.com/naboavida/highcharts-ng-config",
+	"author": {
+		"name": "Nuno Alexandre Boavida",
+		"email": "",
+		"url": "https://github.com/naboavida"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/naboavida/highcharts-ng-config.git"
+	},
+	"licenses": [
+		{
+			"type": "MIT"
+		}
+	]
+}
