@@ -1,0 +1,12 @@
+{
+	"options": {
+		"chart": {
+			"type": {
+				["bar", "line"]
+			},
+			"marginRight": {
+				[0, 1024]
+			}
+		}
+	}
+}
